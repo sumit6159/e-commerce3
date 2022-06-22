@@ -1,6 +1,6 @@
 import React from "react";
 import "./aboutSection.css";
-import { Button, Typography, Avatar } from "@material-ui/core";
+import { Button, Typography } from "@material-ui/core";
 
 import InstagramIcon from "@material-ui/icons/Instagram";
 const About = () => {
